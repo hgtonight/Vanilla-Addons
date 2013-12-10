@@ -1,0 +1,54 @@
+[submodule "plugins/BlanderBlog"]
+	path = plugins/BlanderBlog
+	url = git://github.com/hgtonight/Plugin-BlanderBlog.git
+[submodule "plugins/BulkEdit"]
+	path = plugins/BulkEdit
+	url = git://github.com/hgtonight/Plugin-BulkEdit.git
+[submodule "plugins/BulkInvite"]
+	path = plugins/BulkInvite
+	url = git://github.com/hgtonight/Plugin-BulkInvite.git
+[submodule "plugins/CategoryImages"]
+	path = plugins/CategoryImages
+	url = git://github.com/hgtonight/Plugin-CategoryImages.git
+[submodule "plugins/CategoryNavigation"]
+	path = plugins/CategoryNavigation
+	url = git://github.com/hgtonight/Plugin-CategoryNavigation.git
+[submodule "plugins/ExpandableCategories"]
+	path = plugins/ExpandableCategories
+	url = git://github.com/hgtonight/Plugin-ExpandableCategories.git
+[submodule "plugins/FeatureGuide"]
+	path = plugins/FeatureGuide
+	url = git://github.com/hgtonight/Plugin-FeatureGuide.git
+[submodule "plugins/InviteRoles"]
+	path = plugins/InviteRoles
+	url = git://github.com/hgtonight/Plugin-InviteRoles.git
+[submodule "plugins/JumpToTop"]
+	path = plugins/JumpToTop
+	url = git://github.com/hgtonight/Plugin-JumpToTop.git
+[submodule "plugins/LatestPostList"]
+	path = plugins/LatestPostList
+	url = git://github.com/hgtonight/Plugin-LatestPostList.git
+[submodule "plugins/PanelBoxToggles"]
+	path = plugins/PanelBoxToggles
+	url = git://github.com/hgtonight/Plugin-PanelBoxToggles.git
+[submodule "plugins/RandomImages"]
+	path = plugins/RandomImages
+	url = git://github.com/hgtonight/Plugin-RandomImages.git
+[submodule "plugins/ResizedImageLightBox"]
+	path = plugins/ResizedImageLightBox
+	url = git://github.com/hgtonight/Plugin-ResizedImageLightBox.git
+[submodule "plugins/StatsBox"]
+	path = plugins/StatsBox
+	url = git://github.com/hgtonight/Plugin-StatsBox.git
+[submodule "plugins/SteamSignIn"]
+	path = plugins/SteamSignIn
+	url = git://github.com/hgtonight/Plugin-SteamSignIn.git
+[submodule "plugins/TestingGround"]
+	path = plugins/TestingGround
+	url = git://github.com/hgtonight/Plugin-TestingGround.git
+[submodule "plugins/TranslateThis"]
+	path = plugins/TranslateThis
+	url = git://github.com/hgtonight/Plugin-TranslateThis.git
+[submodule "plugins/VerifyMCUser"]
+	path = plugins/VerifyMCUser
+	url = git://github.com/hgtonight/Plugin-VerifyMCUser.git

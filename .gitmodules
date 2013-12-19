@@ -52,3 +52,6 @@
 [submodule "plugins/VerifyMCUser"]
 	path = plugins/VerifyMCUser
 	url = git://github.com/hgtonight/Plugin-VerifyMCUser.git
+[submodule "applications/yaga"]
+	path = applications/yaga
+	url = git://github.com/hgtonight/Application-Yaga.git

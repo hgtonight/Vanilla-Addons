@@ -58,3 +58,6 @@
 [submodule "plugins/DiscussionPolls"]
 	path = plugins/DiscussionPolls
 	url = https://github.com/hgtonight/Plugin-DiscussionPolls.git
+[submodule "plugins/RefreshCounts"]
+	path = plugins/RefreshCounts
+	url = https://github.com/hgtonight/Plugin-RefreshCounts.git

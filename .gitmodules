@@ -55,3 +55,6 @@
 [submodule "applications/yaga"]
 	path = applications/yaga
 	url = git://github.com/hgtonight/Application-Yaga.git
+[submodule "plugins/DiscussionPolls"]
+	path = plugins/DiscussionPolls
+	url = https://github.com/hgtonight/Plugin-DiscussionPolls.git

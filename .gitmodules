@@ -61,3 +61,15 @@
 [submodule "plugins/RefreshCounts"]
 	path = plugins/RefreshCounts
 	url = https://github.com/hgtonight/Plugin-RefreshCounts.git
+[submodule "plugins/RoleProtect"]
+	path = plugins/RoleProtect
+	url = git://github.com/hgtonight/Plugin-RoleProtect.git
+[submodule "plugins/ModReview"]
+	path = plugins/ModReview
+	url = git://github.com/hgtonight/Plugin-ModReview.git
+[submodule "plugins/CommunityStreams"]
+	path = plugins/CommunityStreams
+	url = git://github.com/hgtonight/Plugin-CommunityStreams.git
+[submodule "plugins/CategoryAds"]
+	path = plugins/CategoryAds
+	url = git://github.com/hgtonight/Plugin-CategoryAds.git

@@ -18,10 +18,11 @@ Ideas
 * A Mod Was Here: Allow moderators to 'sign off' on potentially questionable content in a way to alert other moderators.
 * Feature Guide: Offer an excellent feature tour on page for new users.
 * Community Streams: Create a user submitted stream page and show an 'Streaming Now' widget
-* Yaga Author Meta: Show a user's Yaga meta data in the author info event. Configurable.
+* ~~Yaga Author Meta: Show a user's Yaga meta data in the author info event. Configurable.~~
 * Easy Module Sorting: Show a list of all available modules in a drag n drop interface to set the sort order and visibility options.
 * Yaga Flag Negative Content: Once a UGC's score hits a threshold, hide the post and send to the moderation queue.
-* Yaga Featured Badges: User's can pick badges they would like to feature on their profile and/or posts.
+* ~~Yaga Featured Badges: User's can pick badges they would like to feature on their profile and/or posts.~~
+* Yaga Point Recalculation: Reset a User's points to what they would have with the current rules.
 * Many more...
 
 

@@ -23,6 +23,7 @@ Ideas
 * Yaga Flag Negative Content: Once a UGC's score hits a threshold, hide the post and send to the moderation queue.
 * ~~Yaga Featured Badges: User's can pick badges they would like to feature on their profile and/or posts.~~
 * Yaga Point Recalculation: Reset a User's points to what they would have with the current rules.
+* Yaga Badge Award Remover: Easily remove badge awards from a user.
 * Many more...
 
 

@@ -76,3 +76,6 @@
 [submodule "plugins/DraftSweeper"]
 	path = plugins/DraftSweeper
 	url = git://github.com/hgtonight/Plugin-DraftSweeper.git
+[submodule "plugins/AutoBury"]
+	path = plugins/AutoBury
+	url = git://github.com/hgtonight/Plugin-AutoBury.git

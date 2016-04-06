@@ -82,3 +82,6 @@
 [submodule "plugins/PrintLink"]
 	path = plugins/PrintLink
 	url = git://github.com/hgtonight/Plugin-PrintLink.git
+[submodule "plugins/DiscussionExtender"]
+	path = plugins/DiscussionExtender
+	url = git://github.com/hgtonight/Plugin-DiscussionExtender.git

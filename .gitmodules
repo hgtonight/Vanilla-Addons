@@ -88,3 +88,6 @@
 [submodule "plugins/YagaFeaturedBadges"]
 	path = plugins/YagaFeaturedBadges
 	url = git://github.com/hgtonight/Plugin-YagaFeaturedBadges.git
+[submodule "plugins/YagaRankInMeta"]
+	path = plugins/YagaRankInMeta
+	url = git://github.com/hgtonight/Plugin-YagaRankInMeta.git

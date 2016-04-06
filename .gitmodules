@@ -73,3 +73,6 @@
 [submodule "plugins/CategoryAds"]
 	path = plugins/CategoryAds
 	url = git://github.com/hgtonight/Plugin-CategoryAds.git
+[submodule "plugins/DraftSweeper"]
+	path = plugins/DraftSweeper
+	url = git://github.com/hgtonight/Plugin-DraftSweeper.git

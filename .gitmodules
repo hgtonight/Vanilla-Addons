@@ -100,3 +100,6 @@
 [submodule "plugins/DiscussionMessages"]
 	path = plugins/DiscussionMessages
 	url = git://github.com/hgtonight/Plugin-DiscussionMessages.git
+[submodule "plugins/AdminMode"]
+	path = plugins/AdminMode
+	url = git://github.com/hgtonight/Plugin-AdminMode.git

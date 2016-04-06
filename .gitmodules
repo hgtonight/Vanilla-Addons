@@ -97,3 +97,6 @@
 [submodule "plugins/ZeroComments"]
 	path = plugins/ZeroComments
 	url = git://github.com/hgtonight/Plugin-ZeroComments.git
+[submodule "plugins/DiscussionMessages"]
+	path = plugins/DiscussionMessages
+	url = git://github.com/hgtonight/Plugin-DiscussionMessages.git

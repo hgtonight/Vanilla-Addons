@@ -94,3 +94,6 @@
 [submodule "plugins/DataGenerator"]
 	path = plugins/DataGenerator
 	url = git://github.com/hgtonight/Plugin-DataGenerator.git
+[submodule "plugins/ZeroComments"]
+	path = plugins/ZeroComments
+	url = git://github.com/hgtonight/Plugin-ZeroComments.git

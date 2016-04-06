@@ -85,3 +85,6 @@
 [submodule "plugins/DiscussionExtender"]
 	path = plugins/DiscussionExtender
 	url = git://github.com/hgtonight/Plugin-DiscussionExtender.git
+[submodule "plugins/YagaFeaturedBadges"]
+	path = plugins/YagaFeaturedBadges
+	url = git://github.com/hgtonight/Plugin-YagaFeaturedBadges.git

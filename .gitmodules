@@ -79,3 +79,6 @@
 [submodule "plugins/AutoBury"]
 	path = plugins/AutoBury
 	url = git://github.com/hgtonight/Plugin-AutoBury.git
+[submodule "plugins/PrintLink"]
+	path = plugins/PrintLink
+	url = git://github.com/hgtonight/Plugin-PrintLink.git
